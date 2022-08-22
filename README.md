@@ -4,7 +4,7 @@
 Generate a random 4-word name for a training school.
 
 ## How to use
-Click button/
+Click button.
 
 ## Technologies
 Javascript, HTML, CSS.
