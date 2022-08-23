@@ -4,7 +4,6 @@
     font-size: 20px;
     padding: 0;
     margin: 0;
-    text-align: center;
 }
 html {
     padding: 1rem;
@@ -32,6 +31,7 @@ h1 {
     font-size: 5vmax;
     font-weight: 700;
     width: 70vw;
+    text-align: center;
 
 }
 
@@ -87,7 +87,8 @@ a#button {
 }
 
 #logoContainer {
-    width: 15vw;
+    width: 20%;
+    
 }
 
 
@@ -95,9 +96,14 @@ img.logo {
     max-width: 100%;
     height: auto;
     margin: 1vmax; 
+    padding-left: 1vmax;
+    /* flex: 1 0 100px; */
 }
 
 #name {
     font-size: 4vw;
     margin: 1vmax;  
+    padding-left: 2vmax;
+    width: 80%;
+    /* flex: 2 1  */
 }
